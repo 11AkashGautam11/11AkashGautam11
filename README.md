@@ -1,4 +1,4 @@
-## 👋 Hi, I’m [Your Name]  
+## 👋 Hi, I’m Akasha   
 🔬 I’m a passionate researcher specializing in organic semiconductor synthesis, optoelectrical characterization, and MOS device fabrication.  
 
 👀 I’m interested in advanced API synthesis, polymorph discovery, and cutting-edge materials science.  
